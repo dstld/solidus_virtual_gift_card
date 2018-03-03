@@ -1,1 +1,2 @@
-Spree::OrderContents.include Spree::GiftCards::OrderContentsConcerns
+# unnessecary
+# Spree::OrderContents.include Spree::GiftCards::OrderContentsConcerns
